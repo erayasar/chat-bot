@@ -1,0 +1,20 @@
+{
+  "sorular": [
+    {
+      "soru": "merhaba",
+      "cevap": "merhaba size nas\u0131l yard\u0131mc\u0131 olabilirim?"
+    },
+    {
+      "soru": "selam",
+      "cevap": "selam"
+    },
+    {
+      "soru": "nas\u0131ls\u0131n",
+      "cevap": "te\u015fekk\u00fcr ederim siz nas\u0131ls\u0131n\u0131z?"
+    },
+    {
+      "soru": "pi say\u0131s\u0131 ka\u00e7t\u0131r",
+      "cevap": "Pi say\u0131s\u0131 (\ud835\udf0b\u03c0), bir dairenin \u00e7evresinin \u00e7ap\u0131na oran\u0131d\u0131r ve yakla\u015f\u0131k olarak 3.14159 olarak ifade edilir. Ancak, \ud835\udf0b\u03c0 irrasyonel bir say\u0131d\u0131r, bu y\u00fczden tam bir de\u011feri yoktur ve sonsuza kadar devam eden bir ondal\u0131k basama\u011f\u0131 vard\u0131r. \u0130\u015fte \ud835\udf0b\u03c0'nin ilk birka\u00e7 basama\u011f\u0131:\ud835\udf0b=3.14159265358979323846264338327950288419716939937510...\u03c0=3.14159265358979323846264338327950288419716939937510...Matematik ve bilimde s\u0131k\u00e7a kullan\u0131lan bu sabit, bir\u00e7ok uygulamada sadece birka\u00e7 ondal\u0131k basama\u011f\u0131yla kullan\u0131l\u0131r."
+    }
+  ]
+}
