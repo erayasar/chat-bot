@@ -2,11 +2,11 @@ from difflib import get_close_matches as yakin_sonuclari_getir
 import json
 
 def veritabanina_yukle():
-    with open('//Users//erayasar//Desktop//python-test//veritabani.json', 'r') as dosya:
+    with open('//Users//erayasar//Desktop//chat-bot//veritabani.json', 'r') as dosya:
         return json.load(dosya)
 
 def veritabanina_yaz(veriler):
-    with open('//Users//erayasar//Desktop//python-test//veritabani.json', 'w') as dosya:
+    with open('//Users//erayasar//Desktop//chat-bot//veritabani.json', 'w') as dosya:
         return json.dump(veriler, dosya, indent=2)
 
 def yakin_sonuc_bul(soru, sorular):
